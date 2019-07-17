@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827054499208",
+    "firebase_url": "https://manbocash-ba0b7.firebaseio.com",
+    "project_id": "manbocash-ba0b7",
+    "storage_bucket": "manbocash-ba0b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827054499208:android:6fdbfec0e21b727a",
+        "android_client_info": {
+          "package_name": "example.com.manbocash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827054499208-pqpa277fbbrtc9bue3htcqm1o4l9herp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.com.manbocash",
+            "certificate_hash": "68c7ac7153d56e5fa5b61962b50f8748f359978e"
+          }
+        },
+        {
+          "client_id": "827054499208-r44c7amo7tj6vg9ngsnkoqah3ba5lbbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPAtSDdSOeAl4FeYEV8hpL4wEWOBRPO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827054499208-r44c7amo7tj6vg9ngsnkoqah3ba5lbbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
